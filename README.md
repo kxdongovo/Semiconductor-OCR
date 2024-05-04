@@ -52,4 +52,16 @@ python tools/analysis_tools/analyze_logs.py plot_curve WORK_DIR/20210321_141247.
 mAP	loss_rpn_cls	loss	acc	loss_cls	loss_rpn_bbox
 
 ### WORK_DIR/epoch_200.pth：
+测试结果：
+
+![图片1](https://github.com/kxdongovo/Semiconductor-OCR/assets/55145471/073fb36e-5e09-4716-9c1b-2a61dee558a6)
+
+mAP：
+
+![图片2](https://github.com/kxdongovo/Semiconductor-OCR/assets/55145471/ed98b2a0-ec1a-45ba-8743-94197df9daa6)
+
+acc：
+
+![图片3](https://github.com/kxdongovo/Semiconductor-OCR/assets/55145471/ec38918d-2683-4bf9-b492-bdae73e65594)
+
 
