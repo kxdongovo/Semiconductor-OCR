@@ -20,8 +20,10 @@ labelImg
 
 3、
 打开mmdetection/configs/pacal_voc/faster_rcnn_r50_fpn_1x_voc0712.py把num_classes修改成自己数据集的类别数
+
 4、
 打开mmdetection/configs/base/models/faster_rcnn_r50_fpn.py,把下图的num_classes改成自己的类别数
+
 5、
 打开mmdetection/configs/base/datasets/voc0712.py,改成自己的路径
 
